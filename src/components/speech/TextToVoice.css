@@ -1,0 +1,38 @@
+.text-to-voice{
+    width: 50%;
+}
+.input-group label{
+    display: block;
+    font-size: 24px;
+    font-weight: 500;
+    color: #151515;
+    margin-bottom: 10px;
+}
+.input-group .textarea-input{
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    color: #151515;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.btn{
+    cursor: pointer;
+    width: 150px;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #003366;
+    border-radius: 50px;
+    padding: 10px 0px;
+    margin-right: 20px;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.25);
+    transition: background-color 0.5s ease;
+}
+.btn:hover{
+    background-color: #225588;
+}
